@@ -43,4 +43,4 @@ python `fake_news_detector.py` + **`Fake_News_Detector.ipynb`**
 Shows classic supervised NLP pipeline. Great talking point for AI Intern interviews.
 
 ## Author
-Built for AI Intern portfolio.
+BUILD BY MUHAMMAD ALI HASSAN.
